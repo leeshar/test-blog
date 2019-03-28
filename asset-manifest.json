@@ -1,11 +1,13 @@
 {
-  "main.js": "/snrntpa2z/test-blog.github.io/static/js/main.d3de5f68.chunk.js",
-  "main.js.map": "/snrntpa2z/test-blog.github.io/static/js/main.d3de5f68.chunk.js.map",
+  "main.js": "/snrntpa2z/test-blog.github.io/static/js/main.984c5c8f.chunk.js",
+  "main.js.map": "/snrntpa2z/test-blog.github.io/static/js/main.984c5c8f.chunk.js.map",
   "runtime~main.js": "/snrntpa2z/test-blog.github.io/static/js/runtime~main.e6db9a29.js",
   "runtime~main.js.map": "/snrntpa2z/test-blog.github.io/static/js/runtime~main.e6db9a29.js.map",
-  "static/js/2.f885ce20.chunk.js": "/snrntpa2z/test-blog.github.io/static/js/2.f885ce20.chunk.js",
-  "static/js/2.f885ce20.chunk.js.map": "/snrntpa2z/test-blog.github.io/static/js/2.f885ce20.chunk.js.map",
+  "static/css/2.d9021a74.chunk.css": "/snrntpa2z/test-blog.github.io/static/css/2.d9021a74.chunk.css",
+  "static/js/2.cf7c6d5b.chunk.js": "/snrntpa2z/test-blog.github.io/static/js/2.cf7c6d5b.chunk.js",
+  "static/js/2.cf7c6d5b.chunk.js.map": "/snrntpa2z/test-blog.github.io/static/js/2.cf7c6d5b.chunk.js.map",
   "index.html": "/snrntpa2z/test-blog.github.io/index.html",
-  "precache-manifest.fb0993b25b2b02527a87f82ce16922de.js": "/snrntpa2z/test-blog.github.io/precache-manifest.fb0993b25b2b02527a87f82ce16922de.js",
-  "service-worker.js": "/snrntpa2z/test-blog.github.io/service-worker.js"
+  "precache-manifest.44c4a7cd5c0865a4d7c2d277ff57159d.js": "/snrntpa2z/test-blog.github.io/precache-manifest.44c4a7cd5c0865a4d7c2d277ff57159d.js",
+  "service-worker.js": "/snrntpa2z/test-blog.github.io/service-worker.js",
+  "static/css/2.d9021a74.chunk.css.map": "/snrntpa2z/test-blog.github.io/static/css/2.d9021a74.chunk.css.map"
 }
